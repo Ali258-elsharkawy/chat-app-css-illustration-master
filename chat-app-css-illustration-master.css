@@ -9,7 +9,7 @@ body{
 }
 .purple {
     height: 850px;
-    width: 525px;
+    width: 505px;
     position: absolute;
     z-index: -1;
     background-image: linear-gradient(RGB(193,145,237), RGB(206,65,255));
